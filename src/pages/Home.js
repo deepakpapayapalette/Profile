@@ -16,7 +16,6 @@ import DiagnosticsInvestigations from '../components/Home/DiagnosticsInvestigati
 import Diagnosis from '../components/Home/Diagnosis';
 import TreatmentToDate from '../components/Home/TreatmentToDate';
 import PatientResponse from '../components/Home/PatientResponse';
-
 const Home = () => {
   return (
     <>
